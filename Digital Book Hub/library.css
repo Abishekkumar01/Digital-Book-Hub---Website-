@@ -126,6 +126,7 @@ section{
 .searchbox{
     border-radius: 25px;
     padding: 10px  15px ;
+    color: #0b910b;
 }
 
 .navmenu .searchbox i{
